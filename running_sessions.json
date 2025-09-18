@@ -1,19 +1,12 @@
 {
-    "next_id": 3,
+    "next_id": 4,
     "sessions": [
         {
-            "file_name": "sessions_9647704141155.session",
-            "start_time": "2025-09-16T19:35:39.423713+03:00",
-            "temporary": false,
-            "user_id": 322104546,
-            "id": 1
-        },
-        {
             "file_name": "sessions_9647773712544.session",
-            "start_time": "2025-09-16T19:36:42.227696+03:00",
+            "start_time": "2025-09-18T22:52:51.208741+03:00",
             "temporary": false,
             "user_id": 322104546,
-            "id": 2
+            "id": 3
         }
     ]
 }
